@@ -1,6 +1,7 @@
 # Constitution of LexDAO Club 
 
 ### Originally Adopted July 24, 2020
+### As Adopted February __, 2022
 
 
 # Article I - Organization
@@ -15,7 +16,7 @@ LexDAO is not intended to be, and shall not be deemed to be, a partnership.
 
 LexDAO members, or users of any LexDAO resources, should contact their attorney to obtain advice with respect to any particular legal matter. No reader, user, or browser of LexDAO website or services should act or refrain from acting on the basis of information on this site without first seeking legal advice from counsel in the relevant jurisdiction. Only your individual personal attorney can provide assurances that the information contained herein – and your interpretation of it – is applicable or appropriate to your particular situation. Use of, and access to, LexDAO, any LexDAO website or any of the links or resources contained within the site do not create an attorney-client relationship between the reader, user, or browser and website authors, contributors, contributing law firms, or committee members and their respective employers.
 
-**Section 1.4 - Cooperative principles.** LexDAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including: (i) voluntary and open membership; (ii) democratic member control through distributed ledger smart contract voting management; (iii) member economic participation; (iv) autonomy and independence of LexDAO; (v) providing education, training and information; (vi) cooperation with other DAO cooperatives; and (vii) concern for community.
+**Section 1.4 - Cooperative principles.** LexDAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including: (i) voluntary and open membership; (ii) democratic member control through distributed ledger smart contract voting management **DOES THIS NEED TO CHANGE?**; (iii) member economic participation; (iv) autonomy and independence of LexDAO; (v) providing education, training and information; (vi) cooperation with other DAO cooperatives; and (vii) concern for community.
 
 **Section 1.5 - Nondiscrimination.** LexDAO shall not arbitrarily discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.  
 
